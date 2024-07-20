@@ -161,9 +161,7 @@ SIMPLE_JWT={
     'ACCESS_TOKEN_LIFETIME':timedelta(minutes=55)
 }
 
-CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000", 
-]
+
 MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'media'
 
