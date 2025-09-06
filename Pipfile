@@ -12,6 +12,7 @@ python-decouple = "*"
 dj-database-url = "*"
 gunicorn = "*"
 psycopg2 = "*"
+decouple = "*"
 
 [dev-packages]
 
